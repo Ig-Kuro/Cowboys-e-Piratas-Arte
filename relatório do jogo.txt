@@ -1,0 +1,13 @@
+Da para passar pelas paredes do navio no andar de baixo, e cair para fora do jogo 
+
+A HUD do viking e da ninja mostram o personagem e ataques errados
+
+Os inimigos melee e ranged às vezes esticam o corpo de um jeito estranho (eu sei que é ragdoll mas as vezes ele deforma bem exagerado)
+
+Na ilha da para andar em cima da água 
+
+Também na faze da ilha tem um monte de assets aleatórios flutuando atrás do navio 
+
+Algumas vezes ao iniciar a fase da ilha o personagem spawna no meio do oceano em vez de na frente do navio 
+
+não é essencial, mas seria interessante se desse para cancelar o Q do pirata ao apertar uma segunda vez 
