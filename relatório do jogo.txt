@@ -16,6 +16,8 @@ Ao usar o E do viking ele fica preso na terceira pessoa e começa a mover sozinh
 
 O item de vida recupera muito pouco, quase não faz diferença 
 
+a mesa do pirata tá com a textura quebrada
+
 Na parte da frente do navio, depois de passar pela sala com o esqueleto sentado na mesa, dá para cair para fora do navio pulando nas caixas que estão ali 
 
 Quando jogando a faze da ilha com o pirata, o botão de pulo não funciona 
