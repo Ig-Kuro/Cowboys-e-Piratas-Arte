@@ -10,4 +10,40 @@ Também na faze da ilha tem um monte de assets aleatórios flutuando atrás do n
 
 Algumas vezes ao iniciar a fase da ilha o personagem spawna no meio do oceano em vez de na frente do navio 
 
-não é essencial, mas seria interessante se desse para cancelar o Q do pirata ao apertar uma segunda vez 
+Não é essencial, mas seria interessante se desse para cancelar o Q do pirata ao apertar uma segunda vez 
+
+Ao usar o E do viking ele fica preso na terceira pessoa e começa a mover sozinho, muitas vezes flutuando 
+
+O item de vida recupera muito pouco, quase não faz diferença 
+
+Na parte da frente do navio, depois de passar pela sala com o esqueleto sentado na mesa, dá para cair para fora do navio pulando nas caixas que estão ali 
+
+Quando jogando a faze da ilha com o pirata, o botão de pulo não funciona 
+
+Seria bom se a estrela da ninja desaparece automaticamente depois de alguns segundos, isso é um problema na faze da ilha onde tem muito espaço aberto e ela fica voando pelo céu sem rumo e sem nada pra colidir 
+
+
+Vários objetos da faze da ilha não tem colisão:
+forca
+poço de água perto do dojo
+bonecos de treino 
+armadura dos samurais
+as paredes do dojo com os bonecos de treino 
+as pontes
+os arcos japoneses vermelhos
+locomotiva de trem quebrada 
+caverna
+cactos
+
+também na faze da ilha, alguns objetos sem textura:
+carroça 
+poço de água perto da plantação 
+
+e alguns objetos sem textura ou colisão:
+torre do relógio 
+celeiro
+
+na cerca branca perto da plantação, você consegue atravessar ela em alguns lugares, ela tem colisão mas não está aplicada uniformemente 
+
+na fase da ilha, existe uma chance de inimigos spawnam em cima dos telhados, ficando presos
+
